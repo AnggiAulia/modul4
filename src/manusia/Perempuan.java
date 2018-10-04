@@ -19,6 +19,6 @@ public class Perempuan extends Manusia{
     public final double HtgBBI()
     {
         return (super.getTB()-100)*0.8;
-    }
+  }
     
 }

@@ -24,8 +24,4 @@ public abstract class Manusia {
     }
     //method HtgBBI
     public abstract double HtgBBI();
-
-    int getTB() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
 }
